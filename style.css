@@ -21,8 +21,8 @@ h1 {
 
 .box {
   background-color: rgb(52, 52, 238);
-  width: 200px;
-  height: 100px;
+  width: 400px;
+  height: 200px;
   color: #fff;
   display: flex;
   justify-content: center;
